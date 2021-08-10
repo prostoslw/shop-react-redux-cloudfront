@@ -12,5 +12,5 @@
 **Changes: header background color.**
 
 - s3 bucket - http://task-2-app-bucket.s3-website-eu-west-1.amazonaws.com
-- web page - https://d3cnyxzerfidoh.cloudfront.net/
+- web page - https://d3t9ukb9omexrf.cloudfront.net/
 

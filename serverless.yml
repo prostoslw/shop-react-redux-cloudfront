@@ -1,4 +1,4 @@
-service: node-in-aws-web
+service: shop-react-redux-cloudfront
 
 frameworkVersion: '2'
 
